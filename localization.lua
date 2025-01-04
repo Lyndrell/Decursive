@@ -225,9 +225,14 @@ DCR_SKIP_LIST = {
 	["Songflower Serenade"] = true,
 	["Wyvern Sting"] = true,
 	--["Sanctum Mind Decay"] = true,
-	["Dreamstate"] = true,
+	["Dreamstate"] = false,
 	["Call of Nightmare"] = true,
 	["Icicles"] = true,
+	["Mind Control"] = true, --turtle wow fix
+	--Solnius Encounter:
+	["Dreamfever"] = true,
+	["Emerald Rot"] = true,
+	["Bane of Eranikus"] = true,
 };
 
 -- ignore the effect bassed on the class
